@@ -1,0 +1,12 @@
+[submodule "l10n_lb_hr_payroll"]
+	path = l10n_lb_hr_payroll
+	url = git@github.com:hstabbal/l10n_lb_hr_payroll.git
+	branch = 15.0
+[submodule "nv_double_currencies"]
+	path = nv_double_currencies
+	url = git@github.com:hstabbal/nv_double_currencies.git
+	branch = merge_15
+[submodule "nv_financial_reports_mc"]
+	path = nv_financial_reports_mc
+	url = git@github.com:hstabbal/nv_financial_reports_mc.git
+	branch = 15.0
