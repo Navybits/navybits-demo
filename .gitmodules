@@ -10,3 +10,7 @@
 	path = nv_financial_reports_mc
 	url = git@github.com:hstabbal/nv_financial_reports_mc.git
 	branch = 15.0
+[submodule "l10n_lb"]
+	path = l10n_lb
+	url = git@github.com:hstabbal/l10n_lb.git
+	branch = 15.0
